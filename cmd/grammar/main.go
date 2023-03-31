@@ -1,8 +1,9 @@
 package main
 
 import (
-	"clliv-go/pkg/common"
 	"fmt"
+
+	"github.com/cl1111/clliv-go/pkg/common"
 )
 
 func init() {
