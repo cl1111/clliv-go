@@ -6,9 +6,9 @@ import (
 )
 
 func init() {
-	fmt.Println("clliv-go")
+	fmt.Println("before main init clliv-go")
 }
 
 func main() {
-	common.SetCmdParams()
+	common.TestChan()
 }
